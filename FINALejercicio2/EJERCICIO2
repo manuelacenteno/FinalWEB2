@@ -1,0 +1,8 @@
+Implemente el siguiente requerimiento siguiendo el patrón MVC. No es necesario realizar las vistas, 
+solo controlador(es), modelo(s) y las invocaciones a la vista. 
+ALTERNATIVA A
+Generar una tabla resumen de asignación de lotes por ciudad.
+Se debe mostrar una lista de las ciudades, indicando el total de lotes y el detalle de cada 
+lote asignado
+Si la ciudad no tiene lotes asignados, no debe mostrarse en la lista
+Ejemplo de resultado

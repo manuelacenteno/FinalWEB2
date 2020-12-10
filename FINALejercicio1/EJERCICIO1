@@ -1,0 +1,13 @@
+ALTERNATIVA B
+Implemente el siguiente requerimiento siguiendo el patrón MVC. No es necesario realizar las vistas, 
+solo controlador(es), modelo(s) y las invocaciones a la vista. 
+*Asignar un LOTE al sistema
+Se debe poder agregar un nuevo lote de distribución indicando todos los datos necesarios y cumpliendo
+ los siguientes requerimientos. Informar los errores correspondientes en caso de no cumplirlos.
+*Controlar posibles errores de carga.
+*Verificar que el usuario esté logueado y sea administrador
+*Verificar que realmente existan la ciudad y el laboratorio asociado al lote.
+Verificar que la ciudad destino cumple con la temperatura requerida por el lote.
+ 
+ACLARACIÓN:  No es necesario implementar el router del sistema.
+----------------------------------------------------------------------------------------------
